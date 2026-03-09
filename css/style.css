@@ -56,9 +56,9 @@ body {
 }
 
 .hero {
-  background: url('../img/strawberyyyy\ cheese\ cake.webp') no-repeat center center/cover fixed;
+  background: url('../img/hero-banner-img.jpg') no-repeat center center/cover fixed;
   padding: 5em 0;
-  color: #3a0797;
+  color: #09014eb2;
   text-align: center;
 }
 
